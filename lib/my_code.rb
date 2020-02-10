@@ -24,6 +24,6 @@ def reduce(array, starting_value = nil)
   end 
   
   while index < array.length
-    
+    sum = yield
   
 end 
