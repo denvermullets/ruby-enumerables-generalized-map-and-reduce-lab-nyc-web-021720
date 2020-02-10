@@ -17,6 +17,8 @@ end
 def reduce(array, starting_value = nil)
   if starting_value
     sum = starting_value
+    index = 0
+  else 
     
   
   new_array = []
