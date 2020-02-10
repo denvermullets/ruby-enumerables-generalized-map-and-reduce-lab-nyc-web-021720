@@ -19,7 +19,7 @@ def reduce(array, starting_value = nil)
     sum = starting_value
     index = 0
   else 
-    
+    sum = array[starting_value]
   
   new_array = []
   index = 0 
