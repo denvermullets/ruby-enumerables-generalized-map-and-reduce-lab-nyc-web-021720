@@ -20,6 +20,8 @@ def reduce(array, starting_value = nil)
     index = 0
   else 
     sum = array[0]
+    index = 1 
+  end 
   
   new_array = []
   index = 0 
