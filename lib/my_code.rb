@@ -14,4 +14,11 @@ def map(array)
   
 end
 
-
+def reduce(array, starting_value = 0)
+  
+  new_array = []
+  index = 0 
+  while index < array.length
+  
+  
+end 
