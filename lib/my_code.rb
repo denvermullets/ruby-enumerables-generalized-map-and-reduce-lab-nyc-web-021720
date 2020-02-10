@@ -15,7 +15,8 @@ def map(array)
 end
 
 def reduce(array, starting_value = nil)
-  if 
+  if starting_value
+    
   
   new_array = []
   index = 0 
