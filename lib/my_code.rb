@@ -23,9 +23,7 @@ def reduce(array, starting_value = nil)
     index = 1 
   end 
   
-  new_array = []
-  index = 0 
   while index < array.length
-  
+    
   
 end 
